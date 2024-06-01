@@ -30,7 +30,4 @@ To run this project, you need:
 1. Clone the repository and Open it on PyCharm:
  ``` sh
 https://github.com/jovHad/medical-insurance-portfolio
- 
-   
-   
   
