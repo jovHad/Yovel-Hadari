@@ -28,5 +28,5 @@ To run this project, you need:
 ## How to Run
 
 1. Clone the repository:
-   ```sh
-  https://github.com/jovHad/medical-insurance-portfolio.zip
+   ```sh   https://github.com/jovHad/medical-insurance-portfolio
+  
