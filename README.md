@@ -3,8 +3,7 @@ medical_insurance_portfolio.md
 
 ## Description
 
-For this project, I will be investigating a medical insurance costs dataset in a .csv file of 1339 American subjects,
-using the Python skills that you have developed. 
+For this project, I will be investigating a medical insurance costs dataset in a .csv file of 1339 American subjects. 
  
 Will Explore areas where the data may include bias and how that would impact potential use cases.
 In this code, we analyze the 'smoker' era, and will investigate if and how this status affects the other variables. 
